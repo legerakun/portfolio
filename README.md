@@ -26,3 +26,6 @@
   Features:
   
 ![Screenshot](https://i.imgur.com/RtpbVsH.png)
+
+
+font: Franklin Gothic Demi Cond
