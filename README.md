@@ -1,33 +1,35 @@
 # MY GARRY'S MODE PORTFOLIO
 
 ### POST-APOCALYPSE: HUD (HELIX): 
-  Screenshots:
+  **Screenshots:
   
-  1:
 ![Screenshot](https://i.imgur.com/CWSQLrL.png)
 
-  2:
+____
+ 
 ![Screenshot](https://i.imgur.com/8qYZpLE.png)
 
-  3:
+____
+
 ![Screenshot](https://i.imgur.com/q8JRgHs.png)
 
-  Features:
+  **Features:
   
 ![Screenshot](https://i.imgur.com/0caIGns.png)
 
 ### POST-APOCALYPSE: Inventory (HELIX): 
-  Screenshots:
+  **Screenshots:
   
-  1:
+  
 ![Screenshot](https://i.imgur.com/czewuQU.png)
 
-  2:
+____
+
 ![Screenshot](https://i.imgur.com/Cix6Yg1.png)
 
-  Features:
+  **Features:
   
 ![Screenshot](https://i.imgur.com/RtpbVsH.png)
 
 
-font: Franklin Gothic Demi Cond
+*font: Franklin Gothic Demi Cond
