@@ -49,4 +49,17 @@ ____
 
 ![Screenshot](https://i.imgur.com/kDxJyTf.jpg)
 
+
+### Day & Light: NPC and Static Lights: 
+  ## Based on [addon](https://steamcommunity.com/sharedfiles/filedetails/?id=1614964558&searchtext=day+and+night).
+  **Screenshots:**
+
+![Screenshot](https://i.imgur.com/l14BA8b.jpg)
+
+
+  **Features:**
+
+![Screenshot](https://i.imgur.com/wanoFl1.jpg)
+
+
 *font: Franklin Gothic Demi Cond*
