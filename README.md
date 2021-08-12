@@ -51,7 +51,7 @@ ____
 
 
 ### Day & Light: NPC and Static Lights: 
-  ## Based on [addon](https://steamcommunity.com/sharedfiles/filedetails/?id=1614964558&searchtext=day+and+night).
+  # Based on [addon](https://steamcommunity.com/sharedfiles/filedetails/?id=1614964558&searchtext=day+and+night).
   **Screenshots:**
 
 ![Screenshot](https://i.imgur.com/l14BA8b.jpg)
