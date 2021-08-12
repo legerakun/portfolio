@@ -47,6 +47,6 @@ ____
 
   **Features:**
 
-![Screenshot](https://i.imgur.com/TdB07GH.jpg)
+![Screenshot](https://i.imgur.com/kDxJyTf.jpg)
 
 *font: Franklin Gothic Demi Cond*
