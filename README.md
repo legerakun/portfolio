@@ -1,6 +1,6 @@
 # MY GARRY'S MODE PORTFOLIO
 
-### POST-APOCALYPSE: HUD (HELIX): 
+### POST-APOCALYPSE: HUD: 
   **Screenshots:**
   
 ![Screenshot](https://i.imgur.com/CWSQLrL.png)
@@ -18,7 +18,7 @@ ____
   
 ![Screenshot](https://i.imgur.com/0caIGns.png)
 
-### POST-APOCALYPSE: Inventory (HELIX): 
+### POST-APOCALYPSE: Inventory: 
   **Screenshots:**
   
   
@@ -33,5 +33,20 @@ ____
   
 ![Screenshot](https://i.imgur.com/RtpbVsH.png)
 
+
+### Modern Warfare: HUD: 
+  **Screenshots:**
+
+
+![Screenshot](https://i.imgur.com/TdB07GH.jpg)
+
+____
+
+![Screenshot](https://i.imgur.com/TdB07GH.jpg)
+
+
+  **Features:**
+
+![Screenshot](https://i.imgur.com/TdB07GH.jpg)
 
 *font: Franklin Gothic Demi Cond*
