@@ -1,5 +1,7 @@
 # MY GARRY'S MODE PORTFOLIO
 
+My discord: Legera#5325
+
 ### POST-APOCALYPSE: HUD: 
   **Screenshots:**
   
