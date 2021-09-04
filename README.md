@@ -2,7 +2,7 @@
 
 My discord: Legera#5325
 
-### POST-APOCALYPSE: HUD: 
+### POST-APOCALYPSE: HUD
   **Screenshots:**
   
 ![Screenshot](https://i.imgur.com/CWSQLrL.png)
@@ -20,7 +20,7 @@ ____
   
 ![Screenshot](https://i.imgur.com/0caIGns.png)
 
-### POST-APOCALYPSE: Inventory: 
+### POST-APOCALYPSE: Inventory
   **Screenshots:**
   
   
@@ -36,7 +36,7 @@ ____
 ![Screenshot](https://i.imgur.com/RtpbVsH.png)
 
 
-### Modern Warfare: HUD: 
+### Modern Warfare: HUD 
   **Screenshots:**
 
 
@@ -52,7 +52,7 @@ ____
 ![Screenshot](https://i.imgur.com/kDxJyTf.jpg)
 
 
-### Day & Light: NPC and Static Lights: 
+### Day & Light: NPC and Static Lights
   #### Based on [addon](https://steamcommunity.com/sharedfiles/filedetails/?id=1614964558&searchtext=day+and+night).
   **Screenshots:**
 
