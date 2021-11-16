@@ -36,6 +36,45 @@ ____
 ![Screenshot](https://i.imgur.com/RtpbVsH.png)
 
 
+### POST-APOCALYPSE: Inventory
+  **Screenshots:**
+
+
+![Screenshot](https://i.imgur.com/Cy3SZEO.jpg)
+
+____
+
+![Screenshot](https://i.imgur.com/8J7nQbY.jpg)
+
+____
+
+![Screenshot](https://i.imgur.com/pOeKkNW.jpg)
+
+____
+
+![Screenshot](https://i.imgur.com/OzWZPxC.jpg)
+
+____
+
+![Screenshot](https://i.imgur.com/OWpffhC.jpg)
+
+____
+
+![Screenshot](https://i.imgur.com/GaxFk69.jpg)
+
+ **Features:**
+ 
+    * Tasks menu
+        * Turn on/off visible of chosen group.
+    * Diary menu
+        * Has individual config, which is easy to edit and create new categories and articles.
+    * Ranking menu
+        * On click shows group, relation to the player and rank (Newbie, Experienced, Veteran, Master).
+    * Encyclopedia menu
+        * Has individual config, which is easy to edit and create new categories and articles.
+        * Article can have an image.
+
+
 ### Modern Warfare: HUD 
   **Screenshots:**
 
