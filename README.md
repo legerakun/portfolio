@@ -35,6 +35,8 @@ ____
   
 ![Screenshot](https://i.imgur.com/RtpbVsH.png)
 
+    *Also there's new item base that allows to combine same items in one inventory slot.
+
 
 ### POST-APOCALYPSE: PDA
   **Screenshots:**
@@ -78,10 +80,6 @@ ____
 ### Modern Warfare: HUD 
   **Screenshots:**
 
-
-![Screenshot](https://i.imgur.com/TdB07GH.jpg)
-
-____
 
 ![Screenshot](https://i.imgur.com/TdB07GH.jpg)
 
